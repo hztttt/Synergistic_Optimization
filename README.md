@@ -116,7 +116,7 @@ The hyper-parameters dedicated to DeepSPIN is set in the following section
 
 ```json
     "spin" : {
-        "use_spin":         [true, false],
+        "use_spin":         [true],
         "virtual_len":      [0.3],
         "spin_norm":        [1.323]
     },
